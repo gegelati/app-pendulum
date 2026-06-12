@@ -5,7 +5,7 @@
 # 
 # - gegelati
 
-set(GEGELATI_VERSION "2.0.0")
+set(GEGELATI_VERSION "2.1.0")
 set(GEGELATI_MSVC_ARCHIVE "gegelatilib-msvc-${GEGELATI_VERSION}.zip")
 set(GEGELATI_MSVC_URL "https://github.com/gegelati/gegelati/releases/download/v${GEGELATI_VERSION}/${GEGELATI_MSVC_ARCHIVE}")
 
